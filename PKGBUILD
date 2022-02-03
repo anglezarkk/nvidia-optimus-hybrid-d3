@@ -8,7 +8,7 @@ arch=("any")
 url="https://github.com/anglezarkk/nvidia-optimus-hybrid-d3"
 license=('MIT')
 depends=('nvidia' 'tlp' 'git')
-source=("git://github.com/anglezarkk/nvidia-optimus-hybrid-d3.git")
+source=("https://github.com/anglezarkk/nvidia-optimus-hybrid-d3.git")
 sha1sums=('SKIP')
 
 package() {
